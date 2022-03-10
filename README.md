@@ -63,30 +63,20 @@
 <p align="center">
 <h2>My Social links<h2>
 <p align="center">
-  <a href="https://twitter.com/yokwejuste"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yokwejuste"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/yokwejuste0"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://twitter.com/MankaVelda"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/manka-manjong-996bb5218/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 <hr>
 
-  # <p align="center">🏆 GitHub Profile Trophy Dudes</p>
+  # <p align="center">🏆 GitHub Profile Trophy</p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Mankavelda&row=2&column=4"></p>
 
-
-<!-- ![My Stats](https://github-readme-stats.vercel.app/api?username=yokwejuste&count_private=true&show_icons=true&theme=dark)
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yokwejuste&count_private=true&show_icons=true&theme=dark"></p> -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokwejuste&langs_count=13)](#) -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mankavelda&langs_count=20"></p>
 
-<!-- [![Yokwejuste's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yokwejuste)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="center">
   <img align="center" width=360 src="https://github-readme-stats.vercel.app/api?username=Mankavelda&show_icons=true&locale=en&theme=nord" />
   <img align="center" width=360 src="https://github-readme-streak-stats.herokuapp.com/?user=Mankavelda&theme=nord&hide_border=true" />
 </p>
 
 All  time Stats
-
-<!-- <figure><embed src="https://wakatime.com/share/@yokwejuste/3ec485dc-e314-46a6-bc23-7cb9fb848098.svg"></embed></figure> -->
 <p align="center"><img width="300px" src="https://wakatime.com/share/@Mankavelda/86db2560-1e47-4946-8578-2fb1c6c1c5f0.svg"><img width="300px" src="https://wakatime.com/share/@Mankavelda/86db2560-1e47-4946-8578-2fb1c6c1c5f0.svg"><img width="300px" src="https://wakatime.com/share/@Mankavelda/86db2560-1e47-4946-8578-2fb1c6c1c5f0.svg"></p>
-😊
