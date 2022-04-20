@@ -1,4 +1,4 @@
-# Hey! I'm Velda😀! Aspiring computer engineer. I am particularly interested in web development and graphic design.
+# Hey! I'm Velda😀! Aspiring computer engineer. 
 # Coding is awesome!!! 
 <p align="center">
 <!-- ![visitor](https://profile-counter.glitch.me/yMankavelda/count.svg) -->
