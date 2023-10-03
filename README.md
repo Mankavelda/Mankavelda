@@ -1,4 +1,4 @@
-# Hey! I'm Velda😀! Aspiring computer engineer. 
+# Hey! I'm Velda😀! A computer engineer and web developer. 
 # Coding is awesome!!! 
 <p align="center">
 <!-- ![visitor](https://profile-counter.glitch.me/yMankavelda/count.svg) -->
